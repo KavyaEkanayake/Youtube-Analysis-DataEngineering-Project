@@ -1,9 +1,9 @@
-# YouTube Data Analytics Pipeline
+# YouTube Data Analytics ETL Pipeline
 
 ## Overview
 This project establishes a robust, scalable, and secure data engineering pipeline on AWS to ingest, transform, and analyze daily trending YouTube video data. It focuses on providing actionable insights into video categories and trending metrics across multiple regions, culminating in an interactive analytics dashboard.
 
-## Architecture 
+## Project Goals
 This project was built to achieve the following key objectives:
 - **Automated Data Ingestion**: Develop a reliable mechanism to automatically ingest raw YouTube trending data from external sources.
 - **Efficient ETL System:**: Transform raw, semi-structured data into a clean, structured, and query-optimized format suitable for analytics.
